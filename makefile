@@ -1,5 +1,5 @@
 # Compilador
-CXX = clang++
+CXX = g++
 
 # Flags de compilação
 CXXFLAGS = -std=c++20 -Wall -Wextra -Wpedantic
