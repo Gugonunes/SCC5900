@@ -1,0 +1,52 @@
+{"Entities": [{"BeginOffset": 13, "EndOffset": 20, "Score": 0.5503045192829336, "Text": "Elderly", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 0}
+{"Entities": [{"BeginOffset": 0, "EndOffset": 7, "Score": 1.0, "Text": "Grantor", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 1}
+{"Entities": [{"BeginOffset": 0, "EndOffset": 5, "Score": 0.9999991655356624, "Text": "Trust", "Type": "LegalTerm"}, {"BeginOffset": 31, "EndOffset": 63, "Score": 0.9991118913121912, "Text": "Dorothy Jean Brooks Living Trust", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 2}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 3}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 4}
+{"Entities": [{"BeginOffset": 17, "EndOffset": 26, "Score": 0.7032833091508637, "Text": "Physician", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 5}
+{"Entities": [{"BeginOffset": 45, "EndOffset": 52, "Score": 1.0, "Text": "Trustee", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 6}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 7}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 8}
+{"Entities": [{"BeginOffset": 100, "EndOffset": 127, "Score": 0.9999999701976798, "Text": "Financial Power of Attorney", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 9}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 10}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 11}
+{"Entities": [{"BeginOffset": 124, "EndOffset": 152, "Score": 0.9999986886998418, "Text": "Healthcare Power of Attorney", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 12}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 13}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 14}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 15}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 16}
+{"Entities": [{"BeginOffset": 146, "EndOffset": 158, "Score": 0.9640348076640106, "Text": "HIPAA Waiver", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 17}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 18}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 19}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 20}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 21}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 22}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 23}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 24}
+{"Entities": [{"BeginOffset": 27, "EndOffset": 44, "Score": 1.0, "Text": "Successor Trustee", "Type": "LegalTerm"}, {"BeginOffset": 59, "EndOffset": 66, "Score": 1.0, "Text": "Grantor", "Type": "LegalTerm"}, {"BeginOffset": 97, "EndOffset": 105, "Score": 0.9999992847447459, "Text": "Trustees", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 25}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 26}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 27}
+{"Entities": [{"BeginOffset": 18, "EndOffset": 25, "Score": 1.0, "Text": "Grantor", "Type": "LegalTerm"}, {"BeginOffset": 62, "EndOffset": 75, "Score": 0.9999988079084972, "Text": "Beneficiaries", "Type": "LegalTerm"}, {"BeginOffset": 103, "EndOffset": 108, "Score": 0.9999966621509202, "Text": "Trust", "Type": "LegalTerm"}, {"BeginOffset": 119, "EndOffset": 132, "Score": 0.999993205116773, "Text": "Distributions", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 28}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 29}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 30}
+{"Entities": [{"BeginOffset": 18, "EndOffset": 25, "Score": 1.0, "Text": "Grantor", "Type": "LegalTerm"}, {"BeginOffset": 104, "EndOffset": 109, "Score": 0.9999476698590368, "Text": "Trust", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 31}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 32}
+{"Entities": [{"BeginOffset": 130, "EndOffset": 135, "Score": 0.9999610200823912, "Text": "Trust", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 33}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 34}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 35}
+{"Entities": [{"BeginOffset": 76, "EndOffset": 95, "Score": 0.9997175427551444, "Text": "Local Senior Center", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 36}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 37}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 38}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 39}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 40}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 41}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 42}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 43}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 44}
+{"Entities": [{"BeginOffset": 0, "EndOffset": 8, "Score": 0.9852046790157838, "Text": "Property", "Type": "LegalTerm"}], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 45}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 46}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 47}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 48}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 49}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 50}
+{"Entities": [], "File": "Scenario-18-Edlerly-Widow-Adult-Grandkids-_Brooks_-_ACTUAL-FOR-USE_.txt", "Line": 51}
